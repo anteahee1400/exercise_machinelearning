@@ -10,3 +10,6 @@ def mul(a, b):
 	return a*b
 
 print("my name is Ahn")
+
+def div(a, b):
+	return a // b
