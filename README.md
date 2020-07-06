@@ -1,18 +1,28 @@
 # Github 연습
-## 2020-07-06
-### 안영훈
+## 2020-07-06 안영훈
+### Mark down
 
 출처: https://ndb796.tistory.com/194?category=1029186
+
 링크
 [안경잡이개발자](https://ndb796.tistory.com)
 
 소스코드 블록
 
-'''c
+```c
 
-print("hello, world!")
+#include <stdio.h>
 
-'''
+
+
+int main(void) {
+
+  printf("Hello World!");
+
+}
+
+```
+
 
 순서 없는 목록
 
